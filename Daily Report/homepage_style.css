@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.simioseis{
+    text-align: center;
+}
+h2{
+    background: rgb(207, 203, 203);
+    padding-left: 10px;
+}
+.ht{
+    text-align: center;
+}
+
+header{
+    position: sticky;
+    overflow: hidden;
+display:flex;
+width: 100%;
+padding: 5px 0px 5px 0px;
+justify-content: center;
+align-items: center;
+background: FEFFDE;
+overflow: hidden;
+border-bottom: solid 1px;}
+
+.ergasies{
+    width: 50%;
+    text-align: center;
+}
+
+.posothta{
+    width: 15%;
+   
+    
+}
+.xronos{
+    width: 15%;
+ 
+}
+
+.simioseis{
+    width: 20%;
+ 
+}
+
+.chat{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.sizing50{
+    width: 50%;
+}
+
+.imput-cnt-imp{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+
+.answers-wrapper {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: #91C788;
+    
+  
+}
+
+
+
+.chat-social-titlos{
+    height: 22px;
+    
+}
+
+.chat-social-titlos{
+    background-color: #DDFFBC;
+    padding-left: 20px;
+}
+
+.implementation-wrapper
+{
+   width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.imp-title{
+    height: 22px;
+}
+
+.imp-cnt{
+    background: #DDFFBC;
+    padding-left: 20px;
+}
+.answers-cnt{
+    display: flex;
+    width:50%;
+}
+
+.button{
+  background-color: #52734D;
+    text-align: center;
+}
+
+.send-button{
+    background-color: #FEFFDE;
+    color: #52734D;
+    height: 35px;
+    border-radius: 5px;
+}
+.text{
+    width: 40%;
+}
